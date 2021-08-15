@@ -8,3 +8,13 @@
   */
 
 /*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+
+.logo-icon{
+  width: 50px;
+  line-height: 100%;
+  display: inline-block;
+  margin-bottom: 22px;
+}
+.mvc-icon{
+  width: 99px;
+}
